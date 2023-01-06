@@ -1,0 +1,1129 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.m-0 {
+  margin: 0 !important;
+}
+
+.p-0 {
+  padding: 0 !important;
+}
+
+.container1 {
+  background-color: #ffffff;
+  margin: 20px 0;
+  padding: 50px 50px 10px 50px;
+  font-size: medium;
+}
+
+.left1 {
+  text-align: left;
+  padding: 12px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button1 {
+  font-weight: bold;
+  padding: 13px 36px;
+  height: 46px;
+  background-color: #3fbfb7;
+  border-color: #3fbfb7;
+  color: #fff !important;
+  border: none;
+  outline: none;
+  width: max-content;
+  height: 46px;
+  border-radius: 4px;
+}
+
+.grid-container1 {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  padding: 10px;
+}
+
+.grid-item1 {
+  padding: 30px;
+  font-size: 30px;
+  text-align: center;
+  margin: 15px;
+  border-radius: 21px;
+}
+
+.img1 {
+  position: inherit;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.p-b1 {
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+.container12 {
+  background-color: #ffffff;
+  margin: 20px 0;
+  padding: 50px 50px 10px 50px;
+  font-size: medium;
+}
+
+.paraofbetsec{
+	padding-left: 47px !important;
+}
+.left12 {
+  text-align: left;
+  padding: 12px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.button12 {
+  width: 117px;
+  height: 45px;
+  background-color: #25cdc0;
+  margin: 45px;
+  border-radius: 10px;
+  color: whitesmoke;
+}
+
+.grid-container12 {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  margin-left: 25px;
+  padding: 22px 0;
+}
+
+.img12 {
+  position: inherit;
+}
+
+.p-b12 {
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+.p_50 {
+  padding: 50px 50px 50px 0;
+  text-align: -webkit-left;
+}
+
+.area1 {
+  font-size: 20px;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.mt-5 {
+  margin-top: 50px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+button:hover {
+    background: #3fbfb78f;
+    border: 1px solid #000000;
+}
+@media only screen and (max-width: 413px) {
+  .grid-container1 {
+    grid-template-columns: auto !important;
+  }
+  .grid-container12 {
+    grid-template-columns: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .text1 {
+    padding: 0px;
+  }
+  .left1 {
+    padding: 0px;
+    flex-direction: column;
+    text-align: center;
+  }
+  .container1 {
+    padding: 15px 0 !important;
+  }
+  .area1 {
+    text-align: center;
+  }
+  .img12 {
+    width: 300px !important;
+  }
+  .p_50 {
+    padding: 0;
+  }
+  
+}
+
+@media only screen and (max-width: 769px) {
+  .grid-container1 {
+    grid-template-columns: auto auto;
+    justify-content: space-around;
+    padding: 0;
+  }
+  .grid-container12 {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .text1 {
+    padding: 0;
+  }
+  .img12 {
+    position: inherit;
+    width: 319px;
+  }
+  .container1 {
+    padding: 15px;
+  }
+  .p_50 {
+    padding: 0;
+  }
+  .grid-item1 {
+    padding: 15px;
+  }
+  
+}
+
+@media only screen and (max-width: 767px) {
+  .box {
+    padding: 0 !important;
+  }
+  .flickity-page-dots {
+    display: none;
+  }
+  .card {
+    padding: 10px;
+  }
+  .grid-item2 {
+    padding: 20px 14px 20px 44px;
+  }
+}
+
+.container,
+.container-fluid {
+  padding: 0px;
+}
+
+@media only screen and (max-width: 1026px) {
+  .text1 {
+    padding: 0;
+  }
+  .grid-container1 {
+    grid-template-columns: auto auto;
+  }
+  .grid-container12 {
+    margin: 0;
+  }
+  .img12 {
+    width: 300px;
+  }
+  .container1 {
+    padding: 15px;
+  }
+  .grid-item1 {
+    padding: 15px;
+  }
+  
+}
+
+</style>
+<style>
+  .h2 {
+  font-size: 2rem;
+}
+
+.container2 {
+  background-color: #ffffff;
+  padding: 50px;
+  font-size: 25px !important;
+  color: black !important;
+}
+
+.left2 {
+  font-size: 53.3333px;
+  font-weight: bold;
+  color: black;
+}
+
+.grid-container2 {
+  display: grid;
+  grid-template-columns: 27% 27% 27%;
+  grid-column-gap: 100px;
+  padding: 10px;
+}
+
+.grid-item2 {
+  padding: 25px 15px;
+  text-align: center;
+}
+
+.t1_b {
+  background-image: url(https://sleepy-albattani-0a69f0.netlify.app/1.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 200px;
+}
+
+.t2_b {
+  background-image: url(https://sleepy-albattani-0a69f0.netlify.app/2.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 200px;
+}
+
+.t3_b {
+  background-image: url(https://sleepy-albattani-0a69f0.netlify.app/3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 200px;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.position {
+  position: relative;
+  right:-10px;
+}
+
+.position2 {
+  position: relative;
+  right: -10px;
+}
+
+.position3 {
+  position: relative;
+  right: -14px;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.font-weight-normal {
+  font-weight: normal;
+}
+
+.mobile {
+  display: none;
+}
+.card {
+  box-shadow: none;
+}
+
+.card {
+  position: relative;
+}
+.m-auto{
+  margin: auto;
+}
+
+@media only screen and (max-width: 411px) {
+  .t1_b {
+    margin: 14px;
+  }
+  .t2_b {
+    margin: 14px;
+  }
+  .t3_b {
+    margin: 14px;
+  }
+  .grid-container2 {
+    grid-template-columns: auto;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .grid-container2 {
+    grid-template-columns: auto !important;
+  }
+  .t1_b {
+  background-size: contain !important;
+  }
+  .t2_b {
+    background-size:  contain !important;
+  }
+  .t3_b {
+    background-size:  contain !important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .grid-container2 {
+    grid-template-columns: 30% 30% 30%;
+  grid-column-gap: 35px;
+  }
+  .font-weight-current {
+    font-size: 20px;
+  }
+  .t1_b {
+    margin: 37px 0;
+  background-size: 70%;
+  }
+  .t2_b {
+    margin: 37px 0;
+  background-size: 70%;
+  }
+  .bg-down-app{
+  width: 100%;
+  }
+  .t3_b {
+    margin: 37px 0;
+  background-size: 70%;
+  }
+  .mobile {
+    display: block;
+  }
+
+  . {
+    text-align: center;
+  }
+  .slick-prev:before,
+  .slick-next:before {
+    color: black !important;
+  }
+  .mySlider4 {
+    margin: 0px !important;
+  }
+  .mySlider5 {
+    margin: 0px !important;
+  }
+  .mySlider6 {
+    margin: 0px !important;
+  }
+  .mySlider7 {
+    margin: 0px !important;
+  }
+  .slick-prev,
+  .slick-next {
+    top: 44%;
+  }
+  .slick-prev {
+    left: 10px;
+  }
+  .slick-next {
+    right: 10px;
+  }
+  .mobonone {
+    display: none;
+  }
+  #android_mobile {
+    margin: 12px auto !important;
+  }
+  .left2 {
+    padding: 12px 10px;
+  }
+}
+
+</style>
+<style>
+.font {
+  font-size: 44px;
+  color: white;
+  padding: 50px 50px;
+  background: #25cdc0;
+  margin: 100px 0 100px;
+}
+.max-width {
+    max-width: 575px;
+    margin: auto;
+}
+
+.font-weight-Everyone {
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  bottom: 45px;
+}
+
+.w-14 {
+  width: 10%;
+  position: relative;
+  left: 50px;
+}
+.text-end {
+  text-align: end;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.works-font {
+  font-size: 26.6667px;
+  color: black;
+}
+.font-location {
+  color: black;
+  font-size: 33.3333px;
+}
+.font-weight-current {
+  font-family: "YAEnaIJPs14 0", _fb_, auto;
+  font-size: 24px;
+  color: rgb(0, 0, 0);
+  line-height: 1.4;
+  letter-spacing: 0em;
+  --para-spacing: 0;
+  text-transform: none;
+  --head-indent: 0;
+  --numeric-list-marker: none;
+  list-style-type: none;
+}
+.font-food-delivered {
+  font-size: 45.154px;
+  color: black;
+}
+.col-md-95 {
+    width: 100%;
+    height: 520px;
+}
+.col-lg-3 {
+    padding: 0px !important;
+}
+.font-food-text {
+  color: black;
+  font-size: 20.3193px;
+}
+.font-40 {
+    font-size: 35px;
+}
+.font-resto {
+  font-size: 43.3101px;
+}
+.font-driver {
+  font-size: 43.3101px;
+  color: white;
+}
+
+.bg-driver {
+  background: #25cdc0;
+  padding: 150px;
+}
+.bg-restaurants {
+  background: rgb(248, 241, 241);
+  padding: 150px;
+}
+.font-swifteats {
+  font-size: 24px;
+  color: white;
+  line-height: 1.17;
+}
+.font-business {
+  font-size: 24px;
+  color: black;
+  line-height: 1.17;
+}
+.ios {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  vertical-align: middle;
+}
+.an {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  vertical-align: middle;
+}
+.bg-down-app {
+  background: #25cdc0;
+  border-radius: 20px;
+}
+/*.max-dow-section {
+  max-width: 85%;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}*/
+.ios-span {
+  background: white;
+  border-radius: 9px;
+  padding: 25px 50px;
+  margin-right: 20px;
+}
+.an-span {
+  background: white;
+  border-radius: 9px;
+  padding: 25px 50px;
+}
+.color-dow {
+  color: white;
+  font-size: 41.3236px;
+  padding-bottom: 31px;
+  margin: 0;
+}
+.work {
+  margin: 50px 0px 50px 160px !important;
+  color: black;
+}
+.justify-dow {
+  align-items: center;
+  justify-content: center;
+}
+.btn-display-none {
+  display: none;
+}
+.desktop-none-span {
+  display: none;
+}
+.p-42{
+  padding-left: 107px;
+}
+img:hover{
+  opacity: 0.5;
+}
+span:hover{
+  opacity: 0.5;
+}
+.bg-restaurants:hover{
+  opacity: 0.5;
+}
+.bg-driver:hover{
+  opacity: 0.5;
+}
+.text-dark{
+  color: black;
+}
+.order_swift_mt{
+	 margin-top: 110px;
+    margin-bottom: 110px;
+}
+.p-30{
+	padding: 30px;
+}
+
+
+@media only screen and (max-width: 767px) {
+  h2.h2.p-b1.font-food-delivered {
+    text-align: left;
+  }
+  p.area1.font-food-text {
+    text-align: left;
+  }
+  .order_swift_mt{
+	 margin-top: 0px;
+    margin-bottom: 0px;
+}
+.p-30 {
+    padding: 0px;
+}
+  .mt-5.row.d-flex.slick-initialized2 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 0;
+    margin: 0;
+  }
+  .card {
+    padding: 0px;
+  }
+  .mySlider__item.col-lg-3 {
+    padding: 0;
+  }
+  .site-wrapper.container {
+    padding: 0;
+  }
+  .p-42 {
+    padding-left: 0px;
+  }
+  .w-14 {
+    left: 3px;
+    top: 2px;
+  }
+  ::before {
+    display: none !important;
+  }
+  ::after {
+    display: none !important;
+  }
+  .bg-driver {
+    background: rgb(248, 241, 241);
+    padding: 50px 0px 50px 0px;
+  }
+  .bg-restaurants {
+    background: rgb(115, 115, 115);
+    padding: 50px 0px 50px 0px;
+  }
+  .bg-down-app {
+    height: 250px;
+    width: 100%;
+    border-radius: 0px !important;
+  }
+  .color-dow {
+    font-size: 28.3236px;
+  }
+  .max-dow-section {
+    max-width: 100%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  h2.h2.p-0.font-food-delivered.font-weight-bold.text-white {
+    text-align: left;
+  }
+  .font-food-delivered {
+    font-size: 30.154px;
+  }
+  .font-40 {
+    font-size: 25px;
+  }
+  .font-weight-Everyone {
+    bottom: 28px;
+    text-align: left;
+  }
+  .font {
+    padding: 50px 30px 50px 30px;
+    font-size: 30px;
+  }
+  .position,
+  .position2,
+  .position3 {
+    position: relative;
+    right: -71px;
+  }
+  .t1_b,
+  .t2_b,
+  .t3_b {
+    background-position: center;
+  }
+  p.font-weight-current {
+    max-width: 245px;
+  }
+  .left2 {
+    font-size: 39.3333px;
+  }
+  .mb-none {
+    display: none;
+  }
+  .btn-display-none {
+    display: block;
+  }
+
+  .text-end {
+    text-align: initial;
+  }
+  .mb-20 {
+    margin-bottom: 20px;
+  }
+  .mb-span-none {
+    display: none;
+  }
+  .mb-margin-right-ios {
+    margin-right: 10px;
+  }
+  .desktop-none-span {
+    display: block;
+  }
+  h2.font-weight-bold.text-dark.font-resto {
+    color: white;
+    font-size: 35.3101px;
+  }
+  p.text-dark.font-business.m-0 {
+    color: white;
+    font-size: 16px;
+  }
+  .work {
+    margin: 40px auto !important;
+    color: black;
+    text-align: center !important;
+}
+  h2.font-weight-bold.text-white.font-driver {
+    color: black;
+    font-size: 35.3101px;
+  }
+  p.text-white.font-swifteats.m-0 {
+    color: black;
+    font-size: 16px;
+  }
+  .font-food-text {
+    font-size: 20.3193px;
+}
+.ios-span {
+    margin-right: 0px;
+}
+.bottom-50{
+  margin-bottom: 50px;
+}
+.mobopaddingzerp{
+		padding-left:0px !important;
+}
+}
+ @supports (-webkit-touch-callout: none) {
+   #android_mobile{
+  display:none !important;
+   }
+}
+@media screen and (min-width:768px) and (max-width:1024px){
+   .row {
+    flex-wrap:nowrap !important;
+  }
+  .bg-restaurants {
+    padding: 30px !important;
+  }
+  .bg-driver {
+
+    padding: 30px !important;
+}
+}
+i::before{
+	display:initial !important
+}
+</style>
+<div class="container order_swift_mt">
+  <div class="">
+    <h2 class="h2 font-weight-bold left2 p-0">Order with Swift</h2>
+    <p class="works-font">Here's how this works:</p>
+  </div>
+  <div class="grid-container2">
+    <div class="grid-item2 t1_b">
+      <div class="text2 text-left position">
+        <h3 class="font-weight-bold font-location">Enter Location</h3>
+        <p class="font-weight-current">Use your current location and browse menus of all your island favorites.</p>
+      </div>
+    </div>
+    <div class="grid-item2 t2_b">
+      <div class="text2 text-left position2">
+        <h3 class="font-weight-bold font-location">Checkout</h3>
+        <p class="font-weight-current">Add two orders of this, extra order of that and Boom! checkout</p>
+      </div>
+    </div>
+    <div class="grid-item2 t3_b">
+      <div class="text2 text-left position3">
+        <h3 class="font-weight-bold font-location">Enjoy</h3>
+        <p class="font-weight-current">Delivered in minutes! the moment we're all waiting for!</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container desktop mt-5 mb-5">
+  <div class="left1 ">
+    <div class="text1">
+      <div class="row m-0">
+        <div class="col-md-8">
+          <h2 class="h2 p-b1 font-food-delivered">Food Delivered.</h2>
+          <p class="area1 font-food-text">All your favorite restaurants anywhere in Providenciales right at your fingertips. Sushi, Pizza, Jerk Chicken!! it's all here with deliveries in minutes with Swift Eats.</p>
+        </div>
+        <div class="col-md-4 text-end mb-none">
+          <a href="https://www.swifteats.co/grocerydelivery">
+            <button class="button1 text-white">ORDER FOOD</button>
+          </a>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  <a href="https://www.swifteats.co/grocerydelivery"></a>
+  <div class="site-wrapper container">
+    
+    <div class="mt-5 row d-flex slick-initialized2">
+      
+      <div class="mySlider__item col-lg-3">
+        <a href="https://www.swifteats.co/grocerydelivery"></a>
+        <div class="card">
+          <a href="https://www.swifteats.co/grocerydelivery"></a>
+          <a href="https://www.swifteats.co/yoshisushi">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/food1.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/yoshisushi">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/food2.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/yoshisushi">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/food3.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/yoshisushi">
+            <img src="https://determined-brattain-fb5706.netlify.app/food4.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="col-md-4 text-end btn-display-none">
+          <a href="https://www.swifteats.co/grocerydelivery">
+            <button class="button1 text-white">ORDER FOOD</button>
+          </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Food Delivered -->
+<div class="container desktop mt-5 mb-5">
+  <div class="left1">
+    <div class="text1">
+      <div class="row">
+        <div class="col-md-8">
+          <h2 class="h2 p-b1 font-food-delivered">Order Groceries.</h2>
+          <p class="area1 font-food-text">Shop Groceries &amp; Essential items online. Can't find what you're looking for? request it! we'll shop around and have it delivered in under 3 hours.</p>
+        </div>
+        <div class="col-md-4 text-end mb-none">
+          <a href="https://www.swifteats.co/grocerydelivery">
+            <button class="button1 text-white">SHOW ALL</button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="site-wrapper ">
+    <div class="mt-5 row d-flex slick-initialized2">
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/grocerydelivery?category=845" tabindex="-1">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/snak1.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/grocerydelivery?category=858" tabindex="0">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/snak2.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/grocerydelivery?category=855" tabindex="-1">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/snak3.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/grocerydelivery?category=846" tabindex="-1">
+            <img src="https://determined-brattain-fb5706.netlify.app/snak4.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="col-md-4 text-end btn-display-none mb-20">
+          <a href="https://www.swifteats.co/grocerydelivery">
+            <button class="button1 text-white">SHOW ALL</button>
+          </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Order Groceries -->
+<div class="font">
+  <div class="max-width">
+    <img class="w-14" src="https://sleepy-albattani-0a69f0.netlify.app/4.png">
+    <p class="font-weight-Everyone font-40 text-left paraofbetsec mobopaddingzerp">Getting food delivered <br>home makes living an <br>island life much easier.</p>
+    <p class="m-0 font-40 p-42  mobopaddingzerp" style="padding-left: 50px;">- Everyone</p>
+  </div>
+</div>
+<!-- Order Alcohol -->
+<div class="container desktop mt-5 mb-5">
+  <div class="left1 ">
+    <div class="text1">
+      <div class="row m-0">
+        <div class="col-md-8">
+          <h2 class="h2 p-b1 font-food-delivered">Order Alcohol.</h2>
+          <p class="area1 font-food-text">Shop large collection of beers, Spirits &amp; liquors. Patron, Bambarra, Turks Head Beers, you want it? we've got it all with deliveries in under 30 minutes.</p>
+        </div>
+        <div class="col-md-4 text-end mb-none">
+          <a href="https://www.swifteats.co/alcoholdelivery">
+            <button class="button1 text-white">GET DRINKS</button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="site-wrapper container">
+    <div class="mt-5 row d-flex slick-initialized2">
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/alcoholdelivery?category=565">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/rum1.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/alcoholdelivery?category=564">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/rum2.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/alcoholdelivery?category=562">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/rum3.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/alcoholdelivery?category=563">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/rum4.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="col-md-4 text-end btn-display-none ">
+          <a href="https://www.swifteats.co/alcoholdelivery">
+            <button class="button1 text-white">GET DRINKS</button>
+          </a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Order Alcohol -->
+<div class="container desktop mt-5 mb-5">
+  <div class="left1">
+    <div class="text1">
+      <div class="row m-0">
+        <div class="col-md-8">
+          <h2 class="h2 p-0 font-food-delivered font-weight-bold text-white">Order Wine.</h2>
+          <p class="area1 font-food-text">Browse large selection of Wines &amp; Champagnes and have it delivered anywhere in Turks And Caicos. Order now and you'll be enjoying a glass in minutes.</p>
+        </div>
+        <div class="col-md-4 text-end mb-none">
+          <a href="https://www.swifteats.co/winedelivery">
+            <button class="button1 text-white">GET WINE</button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="site-wrapper container">
+    <div class="mt-5 row d-flex slick-initialized2">
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/winedelivery?category=635">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/wine1.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/winedelivery?category=634">
+            <img src="https://affectionate-rosalind-d882f7.netlify.app/wine2.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/winedelivery?category=643">
+            <img src="https://elegant-feynman-d9d1ef.netlify.app/wine3.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="mySlider__item col-lg-3">
+        <div class="card">
+          <a href="https://www.swifteats.co/winedelivery?category=646">
+            <img src="https://zen-edison-b2836d.netlify.app/wine4.png" class="card-img-top img1" alt="...">
+          </a>
+        </div>
+      </div>
+      <!-- END ITEM -->
+      <div class="col-md-4 text-end btn-display-none bottom-50">
+          <a href="https://www.swifteats.co/winedelivery">
+            <button class="button1 text-white">GET WINE</button>
+          </a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container max-dow-section mt-5 mb-5 p-30">
+  <div class="row m-0 p-0">
+    <div class="col-md-95 bg-down-app text-center d-flex justify-dow">
+      <div>
+        <p class="font-weight-bold color-dow">DOWNLOAD THE APP</p>
+          <div class="mb-span-none">
+            <span class="ios-span mr-4">        
+                <a href="https://apps.apple.com/us/app/swift-eats-food-delivery/id1503584851">
+                  <img class="ios" src="https://suspicious-brahmagupta-849580.netlify.app/ios.png">
+                </a>
+                </span>  
+                <span class="an-span">
+                <a href="https://play.google.com/store/apps/details?id=com.swifteats.app">
+                  <img class="an" src="https://suspicious-brahmagupta-849580.netlify.app/an.png">
+                </a>
+            </span>
+          </div>
+          <div class="desktop-none-span m-auto">
+          <span class="ios-span mr-4 m-auto">       
+              <a id="ios_mobile" class="mb-margin-right-ios" href="https://apps.apple.com/us/app/swift-eats-food-delivery/id1503584851">
+                <img class="ios" src="https://suspicious-brahmagupta-849580.netlify.app/ios.png">
+              </a>
+              <a id="android_mobile" href="https://play.google.com/store/apps/details?id=com.swifteats.app">
+                <img class="an" src="https://suspicious-brahmagupta-849580.netlify.app/an.png">
+              </a>
+          </span>  
+          </div>
+
+              
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mt-5 mb-5">
+  <h1 class="font-weight-bold work">Work with us!</h1>
+  <div class="row mt-5 mb-5 m-0 p-0">
+    <div class="col-md-6 p-0">
+      <a href="https://www.swifteats.co/">
+      <div class="text-center bg-driver">
+        <h2 class="font-weight-bold text-white font-driver">DRIVER</h2>
+        <p class="text-white font-swifteats m-0">Drive with SwiftEats and</p>
+        <p class="text-white font-swifteats m-0">earn money at your own</p>
+        <p class="text-white font-swifteats m-0">convenience.</p>
+      </div>
+    </a>
+  </div>
+     <div class="col-md-6 p-0">
+    <a href="https://www.swifteats.co/">
+      <div class=" text-center bg-restaurants">
+        <h2 class="font-weight-bold text-dark font-resto">RESTAURANTS</h2>
+        <p class="text-dark font-business m-0">Sign up your business and</p>
+        <p class="text-dark font-business m-0">reach more customers.Let us</p>
+        <p class="text-dark font-business m-0">handle the deliveries!</p>
+      </div>
+      </a>
+    </div>
+    
+  </div>
+</div>
+<script>
+   if(navigator != undefined && navigator.userAgent != undefined) {
+   user_agent = navigator.userAgent.toLowerCase();
+   if(user_agent.indexOf('android') > -1) { 
+    document.getElementById("ios_mobile").style.display = "none";
+   }
+   if(user_agent.indexOf('mac') > -1) { 
+    document.getElementById("android_mobile").style.display = "none";
+   }
+   }
+</script>
